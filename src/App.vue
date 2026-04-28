@@ -58,10 +58,6 @@ function handleKeydown(e: KeyboardEvent) {
   <div class="app-shell">
     <!-- Sidebar -->
     <aside class="sidebar">
-      <div class="sidebar-brand">
-        <span class="brand-name">User</span>
-      </div>
-
       <div class="sidebar-section-title">Assistente</div>
       <div class="sidebar-info-card">
         <div class="info-row">
